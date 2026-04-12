@@ -85,4 +85,3 @@ def add_country_names(df):
     df['drzava'] = df['drzava'].fillna(df['geo'])
     return df
 
-#Po želji še dodaj druge pomožne funkcije, ki jih potrebuješ za čiščenje ali obdelavo podatkov.
