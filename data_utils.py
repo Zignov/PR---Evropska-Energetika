@@ -46,6 +46,7 @@ def get_country_mapping(): #Še za lažjo predstavitev držav namesto njihovih k
     return {
         'AL': 'Albanija',
         'AT': 'Avstrija',
+        'BA': 'Bosna in Hercegovina',
         'BE': 'Belgija',
         'BG': 'Bolgarija',
         'CY': 'Ciper',
@@ -57,6 +58,7 @@ def get_country_mapping(): #Še za lažjo predstavitev držav namesto njihovih k
         'ES': 'Španija',
         'FI': 'Finska',
         'FR': 'Francija',
+        'GE': 'Gruzija',
         'HR': 'Hrvaška',
         'HU': 'Madžarska',
         'IE': 'Irska',
@@ -65,15 +67,20 @@ def get_country_mapping(): #Še za lažjo predstavitev držav namesto njihovih k
         'LT': 'Litva',
         'LU': 'Luksemburg',
         'LV': 'Latvija',
+        'MD': 'Moldavija',
+        'ME': 'Črna Gora',
+        'MK': 'Severna Makedonija',
         'MT': 'Malta',
         'NL': 'Nizozemska',
         'NO': 'Norveška',
         'PL': 'Poljska',
         'PT': 'Portugalska',
         'RO': 'Romunija',
+        'RS': 'Srbija',
         'SE': 'Švedska',
         'SI': 'Slovenija',
         'SK': 'Slovaška',
+        'XK': 'Kosovo',
         'EU27_2020': 'Evropska Unija (27)'
     }
 
