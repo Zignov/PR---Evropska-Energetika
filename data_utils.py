@@ -80,6 +80,9 @@ def get_country_mapping(): #Še za lažjo predstavitev držav namesto njihovih k
         'SE': 'Švedska',
         'SI': 'Slovenija',
         'SK': 'Slovaška',
+        'TR': 'Turčija',
+        'UA': 'Ukrajina',
+        'UK': 'Združeno kraljestvo',
         'XK': 'Kosovo',
         'EU27_2020': 'Evropska Unija (27)'
     }
